@@ -2,7 +2,7 @@
 
 #### 自定义View搜集
 
-#### 在本地创建自己的maven仓库，并引用库中的aar库
+#### 在本地创建自己的maven仓库，并引用库中的aar库，结合项目 TestMavnLibrary 一同使用
 
 1、创建一个model，然后将此model打包成aar文件，然后上传到自己本地的maven仓库中
 
