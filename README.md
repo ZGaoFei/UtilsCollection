@@ -43,7 +43,9 @@
 4、在项目所在路径下执行命令
 
     命令：gradlew -p 自己命名的仓库名 clean build uploadArchives --info
-    # 两种方式，一种是直接在as的Terminal中运行，另一种是命令行进入项目文件路径运行
+    或者：gradlew uploadArchives
+    或者直接在右侧gradle选择uploadArchives进行上传
+    # 两种方式，一种是直接在as的Terminal中运行，另一种是命令行进入项目文件路径运行
 
 5、生成成功后会在相应的路径看到对应的文件
 
